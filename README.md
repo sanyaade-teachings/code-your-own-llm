@@ -1,13 +1,14 @@
  <div align='center'>
     <img src="assets/logo.png" alt="logo" width="800"/>
   <h1>Code Your Own LLM</h1>
-  <h3>动手训练你自己的大语言模型</h3>
+  <h3>动手训练你自己的大语言模型 [⚠️ Alpha内测版]</h3>
   <p><em>这是一份全栈式的参考指南，用最简洁的代码帮助你端到端定义大语言模型的每一个细节</em></p>
   <img src="https://img.shields.io/github/stars/datawhalechina/code-your-own-llm?style=flat&logo=github" alt="GitHub stars"/>
   <a rel="License" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="License" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python"/>
   <a href="https://datawhalechina.github.io/code-your-own-llm/"><img src="https://img.shields.io/badge/在线阅读-Online%20Reading-green?style=flat&logo=gitbook" alt="Online Reading"></a>
 </div>
+
 
 
 
@@ -20,6 +21,8 @@
 **Code Your Own LLM** 是一个基于 [nanochat](https://github.com/karpathy/nanochat) 的深度扩展项目，旨在提供一份从原理到实践、从算法到工程的全栈式大语言模型参考指南。我们将提供最简洁的代码实现，没有复杂封装、层层继承和不必要的抽象，用极致的扁平化结构，零层级嵌套和极简的项目依赖来实现大语言模型从零训练到工程落地的整套流程。此外，项目补充了深入的算法原理讲解、详细的复现教程、前沿的优化技术分析，以及丰富的可视化交互。
 
 我们希望从**原理解读、工程实现、实践指导、优化分析、可视化展示**五个维度，系统且详尽地诠释大语言模型算法及工程中从理论设计到代码实现的每一个细节。帮助学习者踏入大语言模型的美妙世界。通过本项目的学习，你将有能力定义独属于自己的大语言模型，能够理解每一行代码背后的数学原理与工程考量，能够根据实际需求调整模型架构与训练策略。
+
+**项目当前处于⚠️ Alpha内测版本，尚不完整且可能存在错误。**
 
 
 
